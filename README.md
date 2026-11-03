@@ -41,12 +41,20 @@ Setiap pertemuan memiliki folder sendiri, dan setiap tugas disimpan sebagai file
 Kumpulan_Tugas_Lab_Daspro_261401053_AngelloAdHarvelSitorus/
 │
 ├── Pertemuan_01/
-│   ├── Tugas_01_Versi_Soal_di_Modul.pas
-│   ├── Tugas_01_Versi_Soal_di_Google_Classrom.pas
+│   ├── Tugas_01_Versi_Soal_di_Modul/
+│   │   ├── soal1.pas
+│   │   ├── soal2.pas
+│   │   └── ...
+│   └── Tugas_01_Versi_Soal_di_Google_Classroom/
+│       ├── soal1.pas
+│       ├── soal2.pas
+│       └── ...
 ├── Pertemuan_02/
-│   ├── Tugas_02.pas
+│   ├── soal1.pas
+│   ├── soal2.pas
 │   └── ...
 ├── Pertemuan_03/
+│   ├── soal1.pas
 │   └── ...
 ├── ...
 ├── .gitignore
