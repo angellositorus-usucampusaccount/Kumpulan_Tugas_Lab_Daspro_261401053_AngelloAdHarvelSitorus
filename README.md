@@ -1,9 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="Header animasi" width="100%">
+</p>
+
 # 📚 Kumpulan Tugas Lab Dasar Pemrograman (Daspro)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_of_North_Sumatra_University.svg" alt="Logo USU" height="120">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTai-9Ro150-kvb4MyXdAANup8g68ZBRn0z81fWFKj4fNycAON6G29-mRs&s=10" alt="Logo USU" height="120">
   <img src="https://media.licdn.com/dms/image/v2/C560BAQFxxn-SbsH64Q/company-logo_200_200/company-logo_200_200/0/1661863646059/iklc_usu_logo?e=2147483647&v=beta&t=0uULV6PKp-3VPxWlm7XsOfP3qfPworoZ1G7bZC6exzk" alt="Logo IKLC" height="120">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Halo!+Saya+Angello+Ad+Harvel+Sitorus;Kumpulan+tugas+Lab+1+Dasar+Pemrograman;Dikodekan+dengan+Pascal" alt="Animasi teks mengetik">
 </p>
 
 ![Mata Kuliah](https://img.shields.io/badge/mata%20kuliah-Dasar%20Pemrograman-blue)
@@ -107,4 +115,8 @@ Terima kasih kepada **Ferdinand Macalister** selaku asisten lab atas bimbingan d
 
 <p align="center">
   Dibuat oleh <b>Angello Ad Harvel Sitorus</b> — 261401053
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer animasi" width="100%">
 </p>
