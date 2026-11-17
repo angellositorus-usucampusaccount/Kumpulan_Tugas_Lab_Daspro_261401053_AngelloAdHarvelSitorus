@@ -17,7 +17,7 @@
 ![Mata Kuliah](https://img.shields.io/badge/mata%20kuliah-Dasar%20Pemrograman-blue)
 ![Bahasa Pemrograman](https://img.shields.io/badge/bahasa-Pascal-red)
 
-Repositori ini berisi kumpulan hasil kodingan untuk seluruh tugas **Lab 1** mata kuliah **Dasar Pemrograman (Daspro)**, dikumpulkan dan diperbarui **setiap pertemuan**.
+Repositori ini berisi kumpulan hasil kodingan untuk seluruh tugas **Lab 1** mata kuliah **Dasar Pemrograman (Daspro)**, dikumpulkan dan diperbarui **setiap pertemuan**. Berdasarkan **Tugas** yang tersedia di setiap akhir modul.
 
 ---
 
